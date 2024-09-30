@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ava-01-procs-testing-Flimars/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ava-01-procs-testing-Flimars/lib/junit-4.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

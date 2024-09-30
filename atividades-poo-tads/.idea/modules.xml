@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/atividades-poo-tads.iml" filepath="$PROJECT_DIR$/.idea/atividades-poo-tads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-00-hello-world-Flimars/ava-00-hello-world-Flimars.iml" filepath="$PROJECT_DIR$/ava-00-hello-world-Flimars/ava-00-hello-world-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-01-procs-testing-Flimars/ava-01-procs-testing-Flimars.iml" filepath="$PROJECT_DIR$/ava-01-procs-testing-Flimars/ava-01-procs-testing-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-02-objetos-estado-comportamento-Flimars/ava-02-objetos-estado-comportamento-Flimars.iml" filepath="$PROJECT_DIR$/ava-02-objetos-estado-comportamento-Flimars/ava-02-objetos-estado-comportamento-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-03-polimorfismo-ad-hoc-encapsulamento-comparabilidade-Flimars/ava-03-polimorfismo-ad-hoc-encapsulamento-comparabilidade-Flimars.iml" filepath="$PROJECT_DIR$/ava-03-polimorfismo-ad-hoc-encapsulamento-comparabilidade-Flimars/ava-03-polimorfismo-ad-hoc-encapsulamento-comparabilidade-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-04-imutabilidade-representacao-formato-coesao-Flimars/ava-04-imutabilidade-representacao-formato-coesao-Flimars.iml" filepath="$PROJECT_DIR$/ava-04-imutabilidade-representacao-formato-coesao-Flimars/ava-04-imutabilidade-representacao-formato-coesao-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-05-associacao-agregacao-modelagem-Flimars/ava-05-associacao-agregacao-modelagem-Flimars.iml" filepath="$PROJECT_DIR$/ava-05-associacao-agregacao-modelagem-Flimars/ava-05-associacao-agregacao-modelagem-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-06-associacao-composicao-responsabilidades-Flimars/ava-06-associacao-composicao-responsabilidades-Flimars.iml" filepath="$PROJECT_DIR$/ava-06-associacao-composicao-responsabilidades-Flimars/ava-06-associacao-composicao-responsabilidades-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-07-direcionalidade-multiplicidade-acoplamento-Flimars/ava-07-direcionalidade-multiplicidade-acoplamento-Flimars.iml" filepath="$PROJECT_DIR$/ava-07-direcionalidade-multiplicidade-acoplamento-Flimars/ava-07-direcionalidade-multiplicidade-acoplamento-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-08-generalizacao-especializacao-polimorfismo-subtipagem-Flimars/ava-08-generalizacao-especializacao-polimorfismo-subtipagem-Flimars.iml" filepath="$PROJECT_DIR$/ava-08-generalizacao-especializacao-polimorfismo-subtipagem-Flimars/ava-08-generalizacao-especializacao-polimorfismo-subtipagem-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-09-classes-abstratas-interfaces-polimorfismo-parametrico-Flimars/ava-09-classes-abstratas-interfaces-polimorfismo-parametrico-Flimars.iml" filepath="$PROJECT_DIR$/ava-09-classes-abstratas-interfaces-polimorfismo-parametrico-Flimars/ava-09-classes-abstratas-interfaces-polimorfismo-parametrico-Flimars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ava-10-projeto/ava-10-projeto.iml" filepath="$PROJECT_DIR$/ava-10-projeto/ava-10-projeto.iml" />
+    </modules>
+  </component>
+</project>
