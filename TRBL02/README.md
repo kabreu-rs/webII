@@ -1,6 +1,6 @@
-Implementação de CRUD MVC com Node.JS, Express e SQLite.
+### Implementação de CRUD MVC com Node.JS, Express e SQLite.
 
-Membros do Grupo:
+**Membros do Grupo:**
 
-Flávio Lima;
-Katiane Abreu.
+* Flávio Lima;
+* Katiane Abreu.
